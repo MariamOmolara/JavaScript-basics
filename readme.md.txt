@@ -6,7 +6,7 @@
 
 4. console.log()
 
-5. The tech field that uses javascript include; Frontend developer, Backend developer, Fullstack developer.
+5. The tech field that uses javascript include; Frontend development, Backend development, Fullstack development, Mobile Applications development.
 
 6. Differences between statically and dynamically type languages;
 Statically typed programming languages do type checking at compile-time. Examples: Java, C, C++. 
